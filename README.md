@@ -6,7 +6,7 @@ Machine-checked Lean 4 proofs for:
 
 **"Recursive Language Models Through the Admissibility-Dynamics Framework: A Principled Theory of When Recursive Scaffolding Succeeds"**
 
-Paper DOI (concept, always resolves to latest): [TBD](https://doi.org/10.5281/zenodo.19753549)
+Paper DOI (concept, always resolves to latest): [10.5281/zenodo.19753549](https://doi.org/10.5281/zenodo.19753549)
 
 ---
 
