@@ -1,6 +1,6 @@
 # Recursive Language Models — Lean Proofs
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19753549.svg)](https://doi.org/10.5281/zenodo.19753549)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20060154.svg)](https://doi.org/10.5281/zenodo.20060154)
 
 Machine-checked Lean 4 proofs for:
 
