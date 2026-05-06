@@ -105,7 +105,7 @@ The stochastic extension establishing the admissibility-dynamics framework on wh
 
 The language-model specialization providing the structural-ceiling and certification-depth context for bounded-context generative systems is developed in:
 
-*Language Model Hallucinations: An Impossibility Theorem and Its Architectural Consequences* — [DOI: 10.5281/zenodo.19715059](https://doi.org/10.5281/zenodo.19715059) (Lean proofs: [TBD](https://doi.org/TBD))
+*Language Model Hallucinations: An Impossibility Theorem and Its Architectural Consequences* — [DOI: 10.5281/zenodo.19715059](https://doi.org/10.5281/zenodo.19715059) (Lean proofs: [TBD](https://doi.org/10.5281/zenodo.20059771))
 
 ---
 
